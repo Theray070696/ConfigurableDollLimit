@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurable Doll Limit", "Configurable Doll Limit\Configurable Doll Limit.csproj", "{D2904B66-5D86-4A25-AD33-7B17CECCAEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2904B66-5D86-4A25-AD33-7B17CECCAEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2904B66-5D86-4A25-AD33-7B17CECCAEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2904B66-5D86-4A25-AD33-7B17CECCAEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2904B66-5D86-4A25-AD33-7B17CECCAEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
